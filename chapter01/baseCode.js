@@ -39,5 +39,3 @@ const statement = (invoice, plays) => {
 };
 
 export default statement;
-7;
-fileController.js;
